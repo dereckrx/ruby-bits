@@ -1,5 +1,7 @@
 ## Ruby Examples
 
+_notes taken from: http://www.codeschool.com/courses/ruby-bits_
+
 * Blocks and Procs
 * DSL
 * Dynamic classes and methods
